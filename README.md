@@ -200,4 +200,4 @@ HuggingFace: [@enghamza-AI](https://huggingface.co/spaces/enghamza-AI)
 
 ---
 
-*Build rare. Ship often. Let the portfolio speak.*
+
